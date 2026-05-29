@@ -42,9 +42,9 @@
 
 ---
 
-# 📈 GitHub Contributions
+## 📈 GitHub Contributions 
 
-<img src="https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/output/github-contribution-grid-snake-dark.svg" />
+![snake gif](https://github.com/DevofTheWorld/DevofTheWorld/blob/output/github-contribution-grid-snake.svg)****
 
 ---
 
