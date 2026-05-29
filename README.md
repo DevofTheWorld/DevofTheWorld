@@ -3,10 +3,15 @@
 # 💫 About Me
 
 👋 Hi, I’m Anthony
+
 👨‍💻 CS Student
+
 💻 Coding • Building • Learning
+
 🚀 Aspiring Software Engineer
+
 🧠 Learning ML & Cybersecurity
+
 🎥 Creative at heart
 
 ---
@@ -44,7 +49,7 @@
 
 ## 📈 GitHub Contributions 
 
-![snake gif](https://github.com/DevofTheWorld/DevofTheWorld/blob/output/github-contribution-grid-snake.svg)****
+![snake gif](https://github.com/DevofTheWorld/DevofTheWorld/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
