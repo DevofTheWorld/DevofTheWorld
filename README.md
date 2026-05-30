@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-<div align="justify">
+
     
 👋 Hi, I’m Anthony
 
@@ -14,7 +14,7 @@
 🧠 Learning ML & Cybersecurity
 
 🎥 Creative at heart
-</div>
+
 
 
 
