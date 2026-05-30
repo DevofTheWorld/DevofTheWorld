@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-
+<div align="justify">
 👋 Hi, I’m Anthony
 
 👨‍💻 CS Student
@@ -13,7 +13,7 @@
 🧠 Learning ML & Cybersecurity
 
 🎥 Creative at heart
-
+</div>
 ---
 
 ## 🌐 Socials
