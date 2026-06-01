@@ -39,15 +39,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DevoftheWorld&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=DevofTheWorld\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=DevofTheWorld\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevofTheWorld\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
 
 ## 📈 GitHub Contributions 
 
