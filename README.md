@@ -1,24 +1,24 @@
 <div align="center">
 
-# 💫 About Me
+# About Me:
 
     
-👋 Hi, I’m Anthony
+• Hi, I’m Anthony
 
-👨‍💻 CS Student
+• CS Student
 
-💻 Coding • Building • Learning
+• Coding • Building • Learning
 
-🚀 Aspiring Software Engineer
+• Aspiring Software Engineer
 
-🧠 Learning ML & Cybersecurity
+• Learning ML & Cybersecurity
 
-🎥 Creative at heart
-
-
+• Creative at heart
 
 
-## 🌐 Socials
+
+
+## Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/itaintthony)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/itaint.anthony)
@@ -27,7 +27,7 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -39,13 +39,13 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DevoftheWorld&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 📈 GitHub Contributions 
+## GitHub Contributions 
 
 ![snake](https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/output/github-contribution-grid-snake.svg)
 
