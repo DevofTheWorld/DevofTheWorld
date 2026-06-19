@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Contributions 
 
-![snake gif](https://github.com/DevofTheWorld/DevofTheWorld/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/output/github-contribution-grid-snake.svg)
 
 ---
 
