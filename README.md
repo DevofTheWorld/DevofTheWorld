@@ -3,17 +3,17 @@
 # About Me:
 
     
-- Hi, I’m Anthony
+Hi, I’m Anthony
 
-- CS Student
+CS Student
 
-- Coding • Building • Learning
+Coding • Building • Learning
 
-- Aspiring Software Engineer
+Aspiring Software Engineer
 
-- Learning ML & Cybersecurity
+Learning ML & Cybersecurity
 
-- Creative at heart
+Creative at heart
 
 
 
