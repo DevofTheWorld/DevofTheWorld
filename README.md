@@ -50,7 +50,4 @@ Creative at heart
 ![snake](https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/output/github-contribution-grid-snake.svg)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=DevofTheWorld\&color=blueviolet\&style=for-the-badge)
-
 </div>
