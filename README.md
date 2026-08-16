@@ -11,8 +11,6 @@ Coding • Building • Learning
 
 Aspiring Software Engineer
 
-Learning ML & Cybersecurity
-
 Creative at heart
 
 
