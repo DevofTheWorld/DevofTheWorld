@@ -8,27 +8,30 @@
 
 ![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
 
-# Tech Stack
+<div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+## Skills
 
----
+### Programming Languages
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DevoftheWorld&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevoftheWorld&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Languages](https://skillicons.dev/icons?i=c,cpp,py,java,js)
 
+### Frontend
 
-## GitHub Contributions 
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,vue)
 
-![snake](https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/output/github-contribution-grid-snake.svg)
+### Backend & Databases
 
----
+![Backend](https://skillicons.dev/icons?i=flask,sqlite)
+
+### Creative & Design
+
+![Creative](https://skillicons.dev/icons?i=photoshop,aftereffects)
+
+### Tools & Other
+
+![Tools](https://skillicons.dev/icons?i=git,github)
+
 </div>
+
+
