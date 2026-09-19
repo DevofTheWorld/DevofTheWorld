@@ -1,0 +1,13 @@
+{
+  "flatten": 1,
+  "isMetric": false,
+  "colorScheme": "github-dark",
+  "recentN": 4,
+  "3D": true,
+  "text": "contribution",
+  "themeColor": {
+    "lightColor": "#1f6feb",
+    "darkColor": "#58a6ff",
+    "backgroundColor": "transparent"
+  }
+}
