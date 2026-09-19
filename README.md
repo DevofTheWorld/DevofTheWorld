@@ -8,9 +8,10 @@
 
 ![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
 
-## Skills
 
 <div align="center">
+
+## Skills
 
 ### Programming Languages
 
