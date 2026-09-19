@@ -3,7 +3,7 @@
 ![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&pause=3000&color=F9F9F9F9&center=true&vCenter=true&width=435&lines=Hi!+I'm+Anthony;CS+Student+%40+BPSU;Currently+learning+ML+fundamentals;Creative+at+Heart" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=16&pause=3000&color=F9F9F9F9&center=true&vCenter=true&width=435&lines=Hi!+I'm+Anthony;CS+Student+%40+BPSU;Currently+learning+ML+Fundamentals;Creative+at+Heart" alt="Typing SVG" /></a>
 </div>
 
 ![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
