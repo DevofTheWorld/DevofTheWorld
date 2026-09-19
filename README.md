@@ -8,10 +8,9 @@
 
 ![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
 
+## Skills
 
 <div align="center">
-
-## Skills
 
 ### Programming Languages
 
@@ -27,12 +26,30 @@
 
 ### Creative & Design
 
-![Creative](https://skillicons.dev/icons?i=photoshop,aftereffects)
+![Creative](https://skillicons.dev/icons?i=photoshop,aftereffects,blender)
 
 ### Tools & Other
 
-![Tools](https://skillicons.dev/icons?i=git,github)
+![Tools](https://skillicons.dev/icons?i=git,github,figma)
 
 </div>
 
 
+## Connect with me
+
+<div align="center">
+  <a href="mailto:anthonylumantao.dev@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" />
+</a>
+<a href="https://www.linkedin.com/in/anthony-lumantao-0063583a6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" />
+</a>
+
+</div>
+
+## Contributions
+<div align="center"> 
+  
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
