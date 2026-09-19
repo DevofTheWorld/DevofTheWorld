@@ -50,6 +50,5 @@
 ## Contributions
 <div align="center"> 
   
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+![3D Contribution Graph](https://raw.githubusercontent.com/DevofTheWorld/DevofTheWorld/main/profile-3d-contrib/profile-night-view.svg)
 </div>
