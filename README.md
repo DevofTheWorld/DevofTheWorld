@@ -1,29 +1,12 @@
+![Hero](https://profilekit.vercel.app/api/hero?name=Anthony+Lumantao&width=1200&height=280&color=787f87&subtitle=Aspiring+AI+Engineer+%E2%80%A2+AI+for+Accessibility)
+
+![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
+
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&pause=3000&color=F9F9F9F9&center=true&vCenter=true&width=435&lines=Hi!+I'm+Anthony;CS+Student+%40+BPSU;Currently+learning+ML+fundamentals;Creative+at+Heart" alt="Typing SVG" /></a>
+</div>
 
-# About Me:
-
-    
-Hi, I’m Anthony
-
-CS Student
-
-Coding • Building • Learning
-
-Aspiring Software Engineer
-
-Creative at heart
-
-
-
-
-## Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/itaintthony)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/itaint.anthony)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/anthony-lumantao-0063583a6)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:anthonylumantao.dev@gmail.com)
-
----
+![Divider](https://profilekit.vercel.app/api/divider?width=1200&height=30&style=dots&color=6b7076)
 
 # Tech Stack
 
