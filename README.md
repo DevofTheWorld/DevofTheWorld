@@ -22,7 +22,7 @@
 
 ### Backend & Databases
 
-![Backend](https://skillicons.dev/icons?i=flask,sqlite)
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,sqlite)
 
 ### Creative & Design
 
